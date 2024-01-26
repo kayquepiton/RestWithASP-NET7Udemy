@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rS5qoyZTMnWtkesaCAYi+5f7DQVHNsocoRsQCWquZjX+ePWQ/l2b8RAp/h01cMaCIjl2et56AizjVgQvrMfFKw==",
+  "dgSpecHash": "sNUy7DVVjSnLlI0Ex+n2O73gp61mTK/HH+BvKjZBOnVPKvyfiWTquuQppirwNsud9s6TJ08M1yAmga1CWG8Tsg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kayqu\\RestWithASP-NET7Udemy\\00_RestWithASPNETUdemy_ScaffoldViaTerminal\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj",
+  "projectFilePath": "C:\\Users\\kayqu\\RestWithASP-NET7Udemy\\01_RestWithASPNETUdemy_ScaffoldViaTerminal\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

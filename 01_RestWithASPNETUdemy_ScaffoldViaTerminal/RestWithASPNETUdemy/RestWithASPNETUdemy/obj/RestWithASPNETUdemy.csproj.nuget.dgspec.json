@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kayqu\\RestWithASP-NET7Udemy\\00_RestWithASPNETUdemy_ScaffoldViaTerminal\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj": {}
+    "C:\\Users\\kayqu\\RestWithASP-NET7Udemy\\01_RestWithASPNETUdemy_ScaffoldViaTerminal\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kayqu\\RestWithASP-NET7Udemy\\00_RestWithASPNETUdemy_ScaffoldViaTerminal\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj": {
+    "C:\\Users\\kayqu\\RestWithASP-NET7Udemy\\01_RestWithASPNETUdemy_ScaffoldViaTerminal\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kayqu\\RestWithASP-NET7Udemy\\00_RestWithASPNETUdemy_ScaffoldViaTerminal\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj",
+        "projectUniqueName": "C:\\Users\\kayqu\\RestWithASP-NET7Udemy\\01_RestWithASPNETUdemy_ScaffoldViaTerminal\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj",
         "projectName": "RestWithASPNETUdemy",
-        "projectPath": "C:\\Users\\kayqu\\RestWithASP-NET7Udemy\\00_RestWithASPNETUdemy_ScaffoldViaTerminal\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj",
+        "projectPath": "C:\\Users\\kayqu\\RestWithASP-NET7Udemy\\01_RestWithASPNETUdemy_ScaffoldViaTerminal\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj",
         "packagesPath": "C:\\Users\\kayqu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kayqu\\RestWithASP-NET7Udemy\\00_RestWithASPNETUdemy_ScaffoldViaTerminal\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\obj\\",
+        "outputPath": "C:\\Users\\kayqu\\RestWithASP-NET7Udemy\\01_RestWithASPNETUdemy_ScaffoldViaTerminal\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
